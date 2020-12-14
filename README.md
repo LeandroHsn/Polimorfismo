@@ -1,5 +1,5 @@
 # **Descrição do projeto**
-### O projeto para definir veículos.  
+### Projeto para definir veículos.  
 
 ### O que é o polimorfismo em Java? Polimorfismo em java consiste em subclasses herdando da superclasse e tendo comportamentos distintos. Resumindo utilizando a msm assinatura para fazer de "muitas formas".
 
